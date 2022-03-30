@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479687320332",
+    "project_id": "maze-fcf06",
+    "storage_bucket": "maze-fcf06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479687320332:android:6de0dc95f46a7560ce5f29",
+        "android_client_info": {
+          "package_name": "com.example.maze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479687320332-0mnl19gvkc4mcvi12c6s2uqlqpmebccr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrmbP3fpCgPrVoamnmwp6MzUyqROzZjrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479687320332-0mnl19gvkc4mcvi12c6s2uqlqpmebccr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Profile">
+
+        <menu>
+
+            <item
+                android:id="@+id/menu_statistics"
+                android:title="Statistics"
+                android:icon="@drawable/statistics"/>
+
+            <item
+                android:id="@+id/menu_edit"
+                android:title="Edit"
+                android:icon="@drawable/edit"/>
+
+            <item
+                android:id="@+id/menu_sign_out"
+                android:title="Sign out"
+                android:icon="@drawable/signout"/>
+
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/menu_tutorial"
+        android:title="Tutorial"
+        android:icon="@drawable/book"/>
+
+    <item
+            android:id="@+id/menu_settings"
+            android:title="Settings"
+            android:icon="@drawable/setting"/>
+
+    <item
+            android:id="@+id/menu_creator"
+            android:title="Creator"
+            android:icon="@drawable/creator"/>
+
+    <item
+        android:id="@+id/menu_exit"
+        android:title="Exit"
+        android:icon="@drawable/exit"/>
+
+
+
+</menu>
